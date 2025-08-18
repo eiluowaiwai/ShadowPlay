@@ -64,6 +64,7 @@
     <Compile Include="Assets\ShadowPlay\Art\Chinese Room\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
     <Compile Include="Assets\ShadowPlay\Art\Chinese Room\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\ShadowPlay\Art\Chinese Room\PostProcessing\Runtime\Components\DitheringComponent.cs" />
+    <Compile Include="Assets\ShadowPlay\Script\ActivateOnCollision.cs" />
     <Compile Include="Assets\ShadowPlay\Art\Chinese Room\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\ShadowPlay\Art\Chinese Room\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
     <Compile Include="Assets\ShadowPlay\Art\Chinese Room\PostProcessing\Runtime\PostProcessingModel.cs" />
